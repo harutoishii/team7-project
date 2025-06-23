@@ -1,13 +1,14 @@
-body {
-    font-family: "ヒラギノ角ゴ","メイリオ",sans-serif;
-    line-height: 1.6;
-    color: #00000000;
-    background: #ffffff;
-}
-
 .block {
-    background: #c28222; 
-    border-left: 3px solid #dbd3d3;     
+    border-left: 3px solid #ae97e3;     
     padding: 12px 16px;
     margin-bottom: 16px;
+}
+h2{
+    background-color: #4da6ef54;
+}
+.time{
+    background-color: #b8d5ed54;
+}
+h1{
+    color: #192ecfc5;
 }
