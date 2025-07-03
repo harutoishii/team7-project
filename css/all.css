@@ -82,10 +82,13 @@ h1{
     flex: 1;
     text-align: center;
 }
-.pictures{
+.pictures a:nth-child(1),a:nth-child(2), a:nth-child(3){
+
     display: flex;
     justify-content: space-evenly;
     flex: 2;
+
+    
 }
 .mojisiro{
     color: white;
