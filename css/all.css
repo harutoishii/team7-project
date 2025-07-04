@@ -86,7 +86,6 @@ h1{
     display: flex;
     justify-content: center;
 
-    
 }
 .mojisiro{
     color: white;
@@ -97,5 +96,5 @@ img{
     height: 300px;
 }
 #home{
-    margin-top: 92px;
+    margin-top: 70px;
 }   
