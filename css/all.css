@@ -82,12 +82,9 @@ h1{
     flex: 1;
     text-align: center;
 }
-.pictures a:nth-child(1),a:nth-child(2), a:nth-child(3){
-
+.pictures{
     display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    flex: 2;
+    justify-content: center;
 
     
 }
@@ -96,8 +93,9 @@ h1{
 
 }
 img{
-    img-: 640px 640px;
+    width: 300px;
+    height: 300px;
 }
 #home{
     margin-top: 92px;
-}
+}   
